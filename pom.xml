@@ -4,7 +4,6 @@
 		<groupId>org.jenkins-ci.plugins</groupId>
 		<artifactId>plugin</artifactId>
 		<version>2.14</version>
-		<!-- which version of Jenkins is this plugin built against? -->
 	</parent>
 
 	<artifactId>hp-application-automation-tools-plugin</artifactId>
